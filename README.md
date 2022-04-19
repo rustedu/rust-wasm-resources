@@ -8,7 +8,7 @@ Useful resources for learning rust &amp; wasm
 * <https://rustwasm.github.io/docs/book/>
 
 ## books
-* Rust 语言圣经 <https://course.rs>
+* Rust语言圣经 <https://course.rs>
 * Rust语言实战 <https://zh.practice.rs/>
 
 ## blogs
