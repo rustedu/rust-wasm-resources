@@ -3,6 +3,7 @@ Useful resources for learning rust &amp; wasm
 
 ## getting-started
 * <https://webassembly.org/getting-started/developers-guide/>
+* <https://developer.mozilla.org/zh-CN/docs/WebAssembly/Rust_to_wasm>
 
 ## the book
 * <https://rustwasm.github.io/docs/book/>
@@ -15,6 +16,7 @@ Useful resources for learning rust &amp; wasm
 ### rust-wasm-example
 * Demo <https://inokawa.github.io/rust-wasm-example/>
 * Src <https://github.com/inokawa/rust-wasm-example>
+
 
 ## blogs
 * 极客幼稚园 <https://blog.ideawand.com/>
