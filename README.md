@@ -12,4 +12,7 @@ Useful resources for learning rust &amp; wasm
 * Rust语言实战 <https://zh.practice.rs/>
 
 ## blogs
-* <https://blog.ideawand.com/>
+* 极客幼稚园 <https://blog.ideawand.com/>
+
+## classes
+* Rust & WebAssembly 项目开发专题班 <https://rustedu.com/course/121>
